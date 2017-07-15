@@ -13,12 +13,8 @@ exports.thanksReply = ['🙌 ',
 ];
 
 exports.tutorial = [
-    '☺️',
-    'Hey',
-    'It\'s nice to meet you',
-    'I\'m here to help you fund 🚑 projects',
-    'Type \'commands\' to see what I can do',
-    '✌️'
+    'Hello, I am Margo, your digital companion.',
+    'Is there something you want to talk about?'
 ];
 
 exports.commands = [
