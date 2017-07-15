@@ -1,0 +1,27 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "First attempt at creating a Twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "mocha ./spec/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanionita/twitter-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanionita/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/alanionita/twitter-bot#readme",
+  "devDependencies": {
+    "chai": "^4.0.2"
+  },
+  "dependencies": {
+    "botmaster": "^3.1.1",
+    "botmaster-twitter-dm": "^1.0.0"
+  }
+}
